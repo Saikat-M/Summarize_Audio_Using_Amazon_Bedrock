@@ -1,0 +1,16 @@
+833-717-2273
+
+Hi Everyone, In this appliation an user can directly upload a prerecorded converstion or can record & then upload an audio file to AWS in order to get a summary and a sentiment analysis of that conversations using Amazon Bedrock.
+
+For this demo I wll record a voice message and will upload it to AWS to get the summary and the sentiment of the message.
+
+
+=========================================================================================
+
+I completed a course called Serverless LLM apps with Amazon Bedrock from Deep Learning dot AI taught by Mike. In this course I learnt how to build an LLM powered application using Amazon Bedrock and other AWS services such as Amazon Transcribe, S3 and Lambda. It was a great learning experince. 
+
+=========================================================================================
+
+The same way the user can upload a prerecorded conversation as well to get the results as well.
+
+The front-emd of the app has been developped by Streamlit and the Back-end has been developped using S3, Lambda, amazon Transcribe, Bedrock and SQS service.
